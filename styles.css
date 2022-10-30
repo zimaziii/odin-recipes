@@ -41,8 +41,9 @@ h2 {
     background-color: orange;
 }
 
-.back-img {
-    background-image: linear-gradient(red, yellow, green);
+body.back-img {
+    background-image: url(/home/zimaziii/repos/odin-recipes/img/cookbook.gif);
+    background-size: cover;
     background-repeat: no-repeat;
     background-size: 100% 120%;
 }

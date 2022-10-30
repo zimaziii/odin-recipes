@@ -42,7 +42,7 @@ h2 {
 }
 
 .back-img {
-    background-image: url("/home/zimaziii/Downloads/book.gif");
+    background-image: url(/home/zimaziii/repos/odin-recipes/img/book.gif);
     background-size: 100% 120%;
     background-repeat: no-repeat;
 }

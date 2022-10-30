@@ -41,7 +41,7 @@ h2 {
     background-color: orange;
 }
 
-.back-img {
+body.back-img {
     background-image: url(/home/zimaziii/repos/odin-recipes/img/book.gif);
     background-size: cover;
     background-repeat: no-repeat;

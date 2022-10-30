@@ -41,9 +41,8 @@ h2 {
     background-color: orange;
 }
 
-body.back-img {
-    background-image: url(https://images.squarespace-cdn.com/content/v1/5a4e7f06010027721c5f92c2/1541988967088-PYZ66CRAG0RA970VARI1/CookbookAnimation.gif);
-    background-size: cover;
+.back-img {
+    background-image: linear-gradient(red, yellow, green);
     background-repeat: no-repeat;
-    background-position: center;
+    background-size: 100% 120%;
 }
